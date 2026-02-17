@@ -1,2 +1,4 @@
 a = 3
-b = 
+b = 4
+suma = a+b
+print(suma)
